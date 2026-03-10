@@ -88,7 +88,7 @@ export default function App() {
         )}
       </div>
       <a
-        href="https://github.com/erincayaz/marmaray"
+        href="https://github.com/erincayaz/marmaray-saatleri"
         target="_blank"
         rel="noopener noreferrer"
         className="github-icon"
